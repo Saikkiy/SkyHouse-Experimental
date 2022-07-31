@@ -1,1 +1,2 @@
-# SkyHouse-Experimental
+# Hello all, this is an experimental beta version of SkyHouse, created by me and Asra. It is a quality of life mod, now with many new features yet to release on the main discord server. If you have any questions please DM me and let me know, and as always any support on my Patreon is greatly appreciated as it allows me to continue giving back to the SkyBlock community. 
+To use the mod just install it in your mods folder (%appdata% -> .minecraft folder -> .mods folder) then launch the game on Forge 1.8.9. (If your having a hard time with the mod not running it may be Skytils, as it has bugged the mod for some) 
